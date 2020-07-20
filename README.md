@@ -27,11 +27,11 @@ A windows 10 machine was used to develop the program.
 4. Create a new folder called Build and select it for compiling. 
 5. Transfer the certificates to New Unity Project_Data once the build is complete.
 
-#How to run?
+# How to run?
 1. Open the Build folder by going inside Front end -> New Unity Project -> Build
 2. Run the New Unity Project Application.
 3. Click the recording button to record user's input. 
 4. Chatbot will respond once the recording is stopped. 
 
-#Video Demo
+# Video Demo
 https://youtu.be/6V6NnBY1ccE
